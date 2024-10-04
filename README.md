@@ -1,3 +1,21 @@
+git remoto adicionar origem https://github.com/Gustavo250215/Gssfh.git
+ git branch -M principal 
+git push -u origem principal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @Gustavo250215
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
